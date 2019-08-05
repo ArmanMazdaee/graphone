@@ -1,0 +1,69 @@
+project:
+  name: 'Graphone'
+  oneLiner: 'When graphql and typeorm are mixed like graphone'
+  state: 'beta'
+  image: ''
+  website: 'https://github.com/ArmanMazdaee/graphone'
+  description: |
+    Spin up your project using a graphql and typeorm a fast wrapper
+  version: 'v0.4.1'
+  mainLicense: 'MIT'
+
+vision:
+  type: 'community'
+  overview: |
+    A wrapper around graphql and typeorm to make backend development easy again
+  items:
+    - 'Easy to define actions for schema'
+    - 'Generating GraphQL schema from TypeORM entities'
+  concept: 'Graphone is based on the idea of simplifying backend and providing an easy to use API'
+  aim: 'Our aim is to make backend development easy again by providing a set of tools to interact with GraphQL and TypeORM in an easier way'
+
+contributionLinks:
+  issueTemplate: '/.github/ISSUE_TEMPLATE.md'
+  starterIssues: 'https://github.com/ArmanMazdaee/graphone/labels/starter%20issue'
+
+supportLinks:
+  documentation: '/docs'
+
+readme:
+  usageExample: |
+    TODO: Add usage example in the README
+
+docs:
+  development: |
+    TODO: Provide development documentation
+
+emails:
+  commercialSupport: 'arman.maz1373@gmail.com'
+  security: 'arman.maz1373@gmail.com'
+  coc: 'arman.maz1373@gmail.com'
+
+copyright:
+  owner: 'The Graphone authors'
+  year: '2019'
+
+cla:
+  copyrightHolder: 'Arman Mazdaee'
+  mail: 'arman.maz1373@gmail.com'
+
+maintainers:
+  - name: 'Arman Mazdaee'
+    nick: 'ArmanMazdaee'
+
+repo:
+  link: 'https://github.com/ArmanMazdaee/graphone'
+  type: 'Github'
+
+badges:
+  - image: 'https://img.shields.io/badge/state-beta-blue.svg'
+    alt: 'state'
+  - image: 'https://img.shields.io/github/release/ArmanMazdaee/graphone.svg'
+    link: 'https://github.com/okkur/reposeed/releases'
+    alt: 'release'
+  - image: 'https://img.shields.io/github/license/ArmanMazdaee/graphone.svg'
+    link: 'LICENSE'
+    alt: 'license'
+
+reposeed:
+  configVersion: 'v1'
